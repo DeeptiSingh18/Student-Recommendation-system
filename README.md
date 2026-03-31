@@ -4,7 +4,7 @@
 
 ## Overview
 The student Recommendation System is a simple rule-based application developed using python.It helps students identify suitable career paths based on their interests, strengths, academic performance and preferred subjects.
-This project demonstrates how basic Artificial Intelligence concepts, such as decision-making and scoring logic, can be applied to solve real-world problems.
+This project demonstrates how basic Artificial Intelligence concepts, such as rule-based systems, search algorithms, decision-making and scoring logic, and a simple machine learning approach to generate accurate recommendations.
 
 ## Objectives
 1) To assist students in choosing appropriate carerr options.
