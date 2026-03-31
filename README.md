@@ -11,16 +11,21 @@ This project demonstrates how basic Artificial Intelligence concepts, such as ru
 2) To apply rule-based logic for decision making.
 3) To demonstrate the use of python in AI based applications.
 4) To create a simple and user-friendly system.
+5) To apply Artificial Intelligence concepts in a practical problem.
+6) To integerate search and basic machine learning techniques.
 
 ## Features
 1) Accepts multiple user inputs (interest, strength, marks, subject).
 2) Uses score-based logic for better recommendations.
 3) Provides dynamic output based on user input.
 4) Menu-driven interface for repeated use.
+5) Implements BFS (Breadth-First Search) for selecting best option.
+6) Includes a simple machine learning prediction model.
 
 ## Technologies
 1) Python (Core Programming)
 2) File Handling
+3) Basic AI Techniques
 
 ## How it Works??
 The system follows a scoring-based approach:
